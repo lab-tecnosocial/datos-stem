@@ -1,0 +1,1190 @@
+[
+  {
+    "unidad_educativa": "UE.TH 27 DE MAYO",
+    "area": "Rural",
+    "municipio": "Tiraque",
+    "zona": "KAYARANI",
+    "direccion": "KAYARANI KM. 86 CARRETERA ANTIGUA A SANTA CRUZ",
+    "lat": -17.47660065,
+    "lon": -65.52194214
+  },
+  {
+    "unidad_educativa": "26 DE febrero",
+    "area": "Urbana",
+    "municipio": "Tiquipaya",
+    "zona": "VILLA 26 DE FEBRERO",
+    "direccion": "CHILIMARCA",
+    "lat": -17.32850075,
+    "lon": -66.20281982
+  },
+  {
+    "unidad_educativa": "6 DE agosto",
+    "area": "Rural",
+    "municipio": "Pocona",
+    "zona": "LOPE MENDOZA ALTO",
+    "direccion": "LOPE MENDOZA ALTO",
+    "lat": -17.53079987,
+    "lon": -65.38308716
+  },
+  {
+    "unidad_educativa": "ABAROA A",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "AVENIDA AYACUCHO NRO 336 ENTRE SANTIVAÑEZ Y JORDAN",
+    "lat": -17.39520073,
+    "lon": -66.15866089
+  },
+  {
+    "unidad_educativa": "ADELA ZAMUDIO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CALA CALA",
+    "direccion": "CALLE ENRIQUE ARZE Nro 2105",
+    "lat": -17.37204242,
+    "lon": -66.16591482
+  },
+  {
+    "unidad_educativa": "AGUA VIVA DE LA ROCA",
+    "area": "Urbana",
+    "municipio": "Vinto",
+    "zona": "21 DE SEPTIEMBRE",
+    "direccion": "CALLE 21 DE SEPTIEMBRE",
+    "lat": -17.39450073,
+    "lon": -66.31280518
+  },
+  {
+    "unidad_educativa": "AISB",
+    "area": "Urbana",
+    "municipio": "Tiquipaya",
+    "zona": "LINDE",
+    "direccion": "AVENIDA TAQUIÑA KM. 1 1/2",
+    "lat": -17.35499954,
+    "lon": -66.20220947
+  },
+  {
+    "unidad_educativa": "AMOR DE DIOS",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUD SAN CARLOS",
+    "direccion": "AV. REPUBLICA Nro 1545",
+    "lat": -17.40701814,
+    "lon": -66.15031457
+  },
+  {
+    "unidad_educativa": "ANDRÉS MORENO SILES",
+    "area": "Rural",
+    "municipio": "Anzaldo",
+    "zona": "TIJRASKA",
+    "direccion": "TIJRASKA",
+    "lat": -17.77400017,
+    "lon": -65.9625473
+  },
+  {
+    "unidad_educativa": "BEPO VAVASSORI",
+    "area": "Urbana",
+    "municipio": "Tiquipaya",
+    "zona": "CIUDAD DEL NIÑO",
+    "direccion": "CALLE PADRE BERTA Y PORVENIR S/N",
+    "lat": -17.34237633,
+    "lon": -66.19146018
+  },
+  {
+    "unidad_educativa": "BOLIVAR",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUD ESTE CENTRAL",
+    "direccion": "SUCRE Nro 561",
+    "lat": -17.39369965,
+    "lon": -66.15351868
+  },
+  {
+    "unidad_educativa": "BOLIVIA A - TURNO TARDE",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "ECUADOR Nro 179 ESQUINA BAPTISTA",
+    "lat": -17.39019966,
+    "lon": -66.15870667
+  },
+  {
+    "unidad_educativa": "BOLIVIA HOLANDA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "K'ASA HUASA",
+    "direccion": "BARRIO K'ASA HUASA",
+    "lat": -17.47511951,
+    "lon": -66.14753633
+  },
+  {
+    "unidad_educativa": "BOLIVIANO ALEMAN",
+    "area": "Rural",
+    "municipio": "Villa Rivero",
+    "zona": "CENTRAL",
+    "direccion": "PLAZA GUALBERTO VILLARROEL",
+    "lat": -17.6154995,
+    "lon": -65.80992889
+  },
+  {
+    "unidad_educativa": "BRASIL B",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "AVENIDA AYACUCHO ESQUINA PUNATA Nro 105",
+    "lat": -17.40162611,
+    "lon": -66.15727562
+  },
+  {
+    "unidad_educativa": "BUENA VISTA LIBERTAD A",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CIUDAD COCHABAMBA",
+    "direccion": "S/N FINAL AV. PANAMERICANA - ALTO BUENA VISTA",
+    "lat": -17.46859932,
+    "lon": -66.15802765
+  },
+  {
+    "unidad_educativa": "BUENAS NUEVAS \"D",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "HUAYRA K ASSA",
+    "direccion": "AV. SUECIA Nro 1170",
+    "lat": -17.41889954,
+    "lon": -66.14588928
+  },
+  {
+    "unidad_educativa": "CALAMA",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "VILLA MODERNA",
+    "direccion": "AV. CONSTANTINO MORALES Nro 13",
+    "lat": -17.41183085,
+    "lon": -66.27164214
+  },
+  {
+    "unidad_educativa": "CANAAN",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CIUDAD COCHABAMBA",
+    "direccion": "AV. VALLE HERMOSO ESQUINA CALLE HUANCHACA S/N",
+    "lat": -17.43993075,
+    "lon": -66.12326346
+  },
+  {
+    "unidad_educativa": "CARMEN ORRUEL DE VERDUGUEZ",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "VILLA MOSCU",
+    "direccion": "AVENIDA MONTEAGUDO FINAL",
+    "lat": -17.36575496,
+    "lon": -66.14838022
+  },
+  {
+    "unidad_educativa": "CARPANI",
+    "area": "Rural",
+    "municipio": "Bolivar",
+    "zona": "CARPANI",
+    "direccion": "CARPANI",
+    "lat": -17.94038516,
+    "lon": -66.57238281
+  },
+  {
+    "unidad_educativa": "CEFERINO NAMUNCURA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "ALBA RANCHO",
+    "direccion": "ALBA RANCHO",
+    "lat": -17.44265317,
+    "lon": -66.22862649
+  },
+  {
+    "unidad_educativa": "CHAPISIRCA",
+    "area": "Urbana",
+    "municipio": "Tiquipaya",
+    "zona": "CHAPISIRCA",
+    "direccion": "CHAPISIRCA",
+    "lat": -17.14789963,
+    "lon": -66.1440506
+  },
+  {
+    "unidad_educativa": "CHIMBOCO",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "CHIMBOCO",
+    "direccion": "CHIMBOCO A 5 KM. AL NORTE DE SACABA",
+    "lat": -17.38714134,
+    "lon": -66.04029584
+  },
+  {
+    "unidad_educativa": "COBIJA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "ECUADOR Nro 179 ESQUINA BAPTISTA",
+    "lat": -17.39019966,
+    "lon": -66.15870667
+  },
+  {
+    "unidad_educativa": "COLEGIO CALA CALA \"MAGIC KIDS",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CALA CALA",
+    "direccion": "PASOSKANKI 120",
+    "lat": -17.37080002,
+    "lon": -66.16235352
+  },
+  {
+    "unidad_educativa": "COLEGIO CALIFORNIA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "TUPURAYA",
+    "direccion": "AV. AMERICA ESTE. Nro 1152",
+    "lat": -17.37380028,
+    "lon": -66.14640808
+  },
+  {
+    "unidad_educativa": "COLEGIO PATRIA NUEVA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUR EL PALMAR",
+    "direccion": "CALLE EUCALIPTOS",
+    "lat": -17.44280052,
+    "lon": -66.19038391
+  },
+  {
+    "unidad_educativa": "COLEGIO SAN MARTÍN DE PORRES PARTICULAR",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "CENTRAL",
+    "direccion": "BALLIVIAN 22 ENTRE COCHABAMBA Y 14 DE SEPTIEMBRE",
+    "lat": -17.396734,
+    "lon": -66.28044381
+  },
+  {
+    "unidad_educativa": "COLEGIO TIQUIPAYA",
+    "area": "Urbana",
+    "municipio": "Tiquipaya",
+    "zona": "ECOLOGICA",
+    "direccion": "TIQUIPAYA AV. ECOLOGICA S/N",
+    "lat": -17.34449959,
+    "lon": -66.20763397
+  },
+  {
+    "unidad_educativa": "CONSTANTINO I",
+    "area": "Urbana",
+    "municipio": "Tiquipaya",
+    "zona": "MOLLE MOLLE",
+    "direccion": "CALLE INNOMINADA POR AV. CHAPICIRCA",
+    "lat": -17.34639931,
+    "lon": -66.19364929
+  },
+  {
+    "unidad_educativa": "CRISTINA PRADO \"B",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "NORTE",
+    "direccion": "23 DE MARZO S/N Y CARMELA CERRUTO",
+    "lat": -17.39257137,
+    "lon": -66.2788841
+  },
+  {
+    "unidad_educativa": "DOMITILA BARRIOS CUENCA",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "GUADALUPE",
+    "direccion": "CIRCUNVALACION KM 6",
+    "lat": -17.37902837,
+    "lon": -66.07850432
+  },
+  {
+    "unidad_educativa": "DON BOSCO PUNATA",
+    "area": "Rural",
+    "municipio": "",
+    "zona": "",
+    "direccion": "",
+    "lat": -17.5442098,
+    "lon": -65.83705709
+  },
+  {
+    "unidad_educativa": "DR FELIX CAPRILES",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "CHIMBA ENTRE GASPAR MIGUEL Y CECILIO G. DE ROJAS",
+    "lat": -17.40819931,
+    "lon": -66.18223572
+  },
+  {
+    "unidad_educativa": "DR. ENRIQUE SANCHEZ DE LOZADA IRIGOYEN",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "VALLE HERMOSO",
+    "direccion": "FELIX LOPE DE VEGA S/N",
+    "lat": -17.36142844,
+    "lon": -66.15895939
+  },
+  {
+    "unidad_educativa": "DR. VALENTIN ACHA",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "ILLATACO",
+    "direccion": "UBICADO A 3 KM. DE QUILLACOLLO CALLE BENI S/N",
+    "lat": -17.38823668,
+    "lon": -66.29548966
+  },
+  {
+    "unidad_educativa": "EDUARDO OCAMPO MOSCOSO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUD",
+    "direccion": "MAIRANA ENTRE ÑUFLO DE CHAVEZ",
+    "lat": -17.4150272,
+    "lon": -66.15046763
+  },
+  {
+    "unidad_educativa": "EJERCITO COCHABAMBA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "MUYURINA",
+    "direccion": "AVENIDA RAMON RIVERO S/N",
+    "lat": -17.37960052,
+    "lon": -66.14640808
+  },
+  {
+    "unidad_educativa": "EL MOLINO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUD",
+    "direccion": "AV. PETROLERA KM. 4 1/2",
+    "lat": -17.44336701,
+    "lon": -66.13610327
+  },
+  {
+    "unidad_educativa": "ELIZARDO PEREZ",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "CATACHILLA",
+    "direccion": "VILLA CLOTILDE",
+    "lat": -17.41189957,
+    "lon": -65.99226379
+  },
+  {
+    "unidad_educativa": "ELIZARDO PÉREZ DE AZAHUANI",
+    "area": "Rural",
+    "municipio": "Tapacarí",
+    "zona": "LEQUE",
+    "direccion": "CMD. AZAHUANI",
+    "lat": -17.52510071,
+    "lon": -66.77682495
+  },
+  {
+    "unidad_educativa": "ESCLAVAS DEL SAGRADO CORAZON DE JESUS",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "MUYURINA",
+    "direccion": "AVENIDA VILLAZON",
+    "lat": -17.37610054,
+    "lon": -66.13722992
+  },
+  {
+    "unidad_educativa": "FAUSTINO SUAREZ ARNEZ",
+    "area": "Rural",
+    "municipio": "Aiquile",
+    "zona": "OESTE",
+    "direccion": "AV. SAN SIMON ESQUINA AV. TERAN",
+    "lat": -18.20079198,
+    "lon": -65.18360156
+  },
+  {
+    "unidad_educativa": "FERROVIARIA MAX FERNÁNDEZ ROJAS",
+    "area": "Urbana",
+    "municipio": "Colcapirhua",
+    "zona": "SUMUMPAYA",
+    "direccion": "AV. BLANCO GALINDO KM 8 DETRAS EL PSIQUIATRICO",
+    "lat": -17.39568127,
+    "lon": -66.23137087
+  },
+  {
+    "unidad_educativa": "FRANCISCO GONZALES PRADA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "LA CHIMBA",
+    "direccion": "WALDO ROCHA Y CAPITAN VICTOR USTARIZ",
+    "lat": -17.39620018,
+    "lon": -66.16889954
+  },
+  {
+    "unidad_educativa": "FRANCISCO JAVIER BALDIVIESO LUNA",
+    "area": "-",
+    "municipio": "Cochabamba",
+    "zona": "VALLE HERMOSO",
+    "direccion": "",
+    "lat": -17.46660042,
+    "lon": -66.11313629
+  },
+  {
+    "unidad_educativa": "FRANZ TAM.",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "CHIÑATA",
+    "direccion": "CHIÑATA KM. 27 CARRETERA COCHABAMBA SANTA CRUZ",
+    "lat": -17.4022007,
+    "lon": -65.98046875
+  },
+  {
+    "unidad_educativa": "FRANZ TAMAYO",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "VILLA MODERNA",
+    "direccion": "AV. SUAREZ MIRANDA Nro 515",
+    "lat": -17.38847088,
+    "lon": -66.28052561
+  },
+  {
+    "unidad_educativa": "FRANZ TAMAYO DE LLAVINI",
+    "area": "Rural",
+    "municipio": "Tapacarí",
+    "zona": "LLAVINI",
+    "direccion": "LLAVINI",
+    "lat": -17.66570091,
+    "lon": -66.40999603
+  },
+  {
+    "unidad_educativa": "GERARDO VARGAS VIDAL",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "VALLE HERMOSO",
+    "direccion": "MONSEÑOR ARNULFO ROMERO Y MARTIN LUTHER K",
+    "lat": -17.44000053,
+    "lon": -66.1284256
+  },
+  {
+    "unidad_educativa": "GERÓNIMO DE OSORIO",
+    "area": "Urbana",
+    "municipio": "-",
+    "zona": "-",
+    "direccion": "-",
+    "lat": -17.39649963,
+    "lon": -66.18643951
+  },
+  {
+    "unidad_educativa": "GUADALUPE",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "GUADALUPE",
+    "direccion": "GUADALUPE KM. 8 1/2 CARRETERA A SACABA NORTE",
+    "lat": -17.37969971,
+    "lon": -66.08279419
+  },
+  {
+    "unidad_educativa": "HUGHES SCHOOLS",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "PUNTITI",
+    "direccion": "AVENIDA OCTAVA KM. 6 CARRETERA A SACABA 3 CUADRAS",
+    "lat": -17.38100052,
+    "lon": -66.09702301
+  },
+  {
+    "unidad_educativa": "HUGO CHAVEZ",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "BONANZA",
+    "direccion": "FINAL CALLE SUCRE",
+    "lat": -17.410905,
+    "lon": -65.990303
+  },
+  {
+    "unidad_educativa": "ILURI GRANDE",
+    "area": "Rural",
+    "municipio": "Tiraque",
+    "zona": "ILURI GRANDE",
+    "direccion": "ILURI GRANDE",
+    "lat": -17.39669991,
+    "lon": -65.82604218
+  },
+  {
+    "unidad_educativa": "ITALO BOLIVIANO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "VILLA CORONILLA",
+    "direccion": "AV. MANCO KAPAC Nro 1070",
+    "lat": -17.40369987,
+    "lon": -66.16724396
+  },
+  {
+    "unidad_educativa": "JESUS",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SANTA VERA CRUZ",
+    "direccion": "SANTA VERA CRUZ AVENIDA PETROLERA KM. 7S/N CARRETERA ANTIGUA A SANTA CRUZ",
+    "lat": -17.4598999,
+    "lon": -66.12439728
+  },
+  {
+    "unidad_educativa": "JESÚS TERCEROS SILES",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "",
+    "direccion": "CALLE ARGENTINA Nro 270 URBANIZACION SAN PEDRO",
+    "lat": -17.38599968,
+    "lon": -66.12047577
+  },
+  {
+    "unidad_educativa": "JORGE CABRERA ACUÑA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "VILLA FELICIDAD",
+    "direccion": "AVENIDA REPUBLICA FINAL",
+    "lat": -17.41593253,
+    "lon": -66.15141106
+  },
+  {
+    "unidad_educativa": "JOSE BRAULIO PEREIRA",
+    "area": "Rural",
+    "municipio": "San Benito",
+    "zona": "VILLA MENDOZA",
+    "direccion": "SAN BENITO",
+    "lat": -17.52326948,
+    "lon": -65.89723849
+  },
+  {
+    "unidad_educativa": "JOSE NABOR QUINTANA NAVIA",
+    "area": "Rural",
+    "municipio": "Aiquile",
+    "zona": "VILLA GUADALUPE",
+    "direccion": "VILLA GUADALUPE",
+    "lat": -18.21437087,
+    "lon": -65.18695079
+  },
+  {
+    "unidad_educativa": "JUANA AZURDUY DE PADILLA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "JUNIN Nro 113",
+    "lat": -17.39220047,
+    "lon": -66.16042328
+  },
+  {
+    "unidad_educativa": "JULIO DARIO DAZZI",
+    "area": "Rural",
+    "municipio": "Arque",
+    "zona": "WAYCHA",
+    "direccion": "WAYCHA",
+    "lat": -17.89413649,
+    "lon": -66.32395058
+  },
+  {
+    "unidad_educativa": "KOARI",
+    "area": "Rural",
+    "municipio": "Tiraque",
+    "zona": "KOARI MEDIO",
+    "direccion": "CARRETERA ANTIGUA A SANTA CRUZ KM. 80",
+    "lat": -17.47920036,
+    "lon": -65.57610321
+  },
+  {
+    "unidad_educativa": "LA EDAD DE ORO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "NORTE",
+    "direccion": "AV. JUAN DE LA ROSA ENTRE AV. MELCHOR PEREZ Y AV. BEIJIN Nº 0-1433",
+    "lat": -17.36777252,
+    "lon": -66.15668802
+  },
+  {
+    "unidad_educativa": "LA SALLE",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "JUNIN 200",
+    "lat": -17.38945167,
+    "lon": -66.16070914
+  },
+  {
+    "unidad_educativa": "LATINOAMERICANA",
+    "area": "Rural",
+    "municipio": "Punata",
+    "zona": "SACA SACA",
+    "direccion": "AV. RUBEN FERRUFINO S/N",
+    "lat": -17.55374082,
+    "lon": -65.85230827
+  },
+  {
+    "unidad_educativa": "LATINOAMÉRICANO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "CALLE URUGUAY Nro 836",
+    "lat": -17.3975384,
+    "lon": -66.1495256
+  },
+  {
+    "unidad_educativa": "LIBERTAD",
+    "area": "Urbana",
+    "municipio": "Tiquipaya",
+    "zona": "CIUDAD DEL NIÑO",
+    "direccion": "CALLE PORVENIR S/N",
+    "lat": -17.34600067,
+    "lon": -66.19312286
+  },
+  {
+    "unidad_educativa": "MADRE DE LA DIVINA PROVIDENCIA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "ZONA SUR CIUDAD DE COCHABAMBA",
+    "direccion": "CALLE RIO BERMEJO - S/N- VILLA ARMONIA - ZONA SUR",
+    "lat": -17.439458,
+    "lon": -66.149714
+  },
+  {
+    "unidad_educativa": "MANUEL ASCENCIO VILLARROEL",
+    "area": "Rural",
+    "municipio": "Punata",
+    "zona": "OESTE",
+    "direccion": "GENERAL PANDO",
+    "lat": -17.54570007,
+    "lon": -65.84317017
+  },
+  {
+    "unidad_educativa": "MARCELO QUIROGA SANTA CRUZ SACABA FISCAL",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "PACATA CENTRAL",
+    "direccion": "DIEGO MOSQUERA",
+    "lat": -17.37627127,
+    "lon": -66.11839681
+  },
+  {
+    "unidad_educativa": "MARCELO QUIROGA SANTA CRUZ \"B\" SACABA",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "SACABA",
+    "direccion": "AVENIDA VILLAZON KM. 5",
+    "lat": -17.38702213,
+    "lon": -66.10192804
+  },
+  {
+    "unidad_educativa": "MARCELO QUIROGA SANTA CRUZ ARQUE",
+    "area": "Rural",
+    "municipio": "Arque",
+    "zona": "TUJSUMA",
+    "direccion": "TUJSUMA",
+    "lat": -17.90473399,
+    "lon": -66.39858036
+  },
+  {
+    "unidad_educativa": "MARÍA AUXILIADORA CRISTO REY",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "VILLA INGAVI",
+    "direccion": "AVENIDA HERNANDO DE SOTO ESQ. DIEGO DE ALMAGRO",
+    "lat": -17.39030075,
+    "lon": -66.17238617
+  },
+  {
+    "unidad_educativa": "MARIA AYMA",
+    "area": "Urbana",
+    "municipio": "Vinto",
+    "zona": "SEXTA PARTE",
+    "direccion": "COMUNIDAD SEXTA PARTE",
+    "lat": -17.39661802,
+    "lon": -66.33217959
+  },
+  {
+    "unidad_educativa": "MARIA CRISTINA",
+    "area": "Urbana",
+    "municipio": "",
+    "zona": "",
+    "direccion": "",
+    "lat": -17.3031156,
+    "lon": -66.191597
+  },
+  {
+    "unidad_educativa": "MEJILLONES A",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "BAPTISTA Nro 285",
+    "lat": -17.39042131,
+    "lon": -66.15822225
+  },
+  {
+    "unidad_educativa": "MERCEDES CANDIA DE OVANDO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "LAS CUADRAS",
+    "direccion": "PARQUE DEL MAESTRO S/N",
+    "lat": -17.39430046,
+    "lon": -66.13924408
+  },
+  {
+    "unidad_educativa": "MICAELA BASTIDAS",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUD BARRIO PRIMERO DE MAYO",
+    "direccion": "",
+    "lat": -17.47251827,
+    "lon": -66.20934904
+  },
+  {
+    "unidad_educativa": "NATANIEL AGUIRRE",
+    "area": "Rural",
+    "municipio": "Arque",
+    "zona": "ARQUE",
+    "direccion": "AVENIDA JUVENAL PEREZ FINAL CARRETERA VILUYO ARQUE",
+    "lat": -17.82040873,
+    "lon": -66.40413521
+  },
+  {
+    "unidad_educativa": "NAZARIO ANTEZANA VARGAS",
+    "area": "Rural",
+    "municipio": "Arque",
+    "zona": "OVEJERIA LARAMA",
+    "direccion": "SE COMUNIDAD DE OVEJERIA LARAMA",
+    "lat": -17.94886299,
+    "lon": -66.2898597
+  },
+  {
+    "unidad_educativa": "NOVILLERO",
+    "area": "Rural",
+    "municipio": "Aiquile",
+    "zona": "SUD",
+    "direccion": "CAMINO VECINAL",
+    "lat": -18.30084348,
+    "lon": -65.23449671
+  },
+  {
+    "unidad_educativa": "NUESTRA SEÑORA DE URCUPIÑA",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "CENTRAL",
+    "direccion": "AVENIDA RICARDO SORUCO",
+    "lat": -17.39629296,
+    "lon": -66.27632259
+  },
+  {
+    "unidad_educativa": "OSCAR UNZAGA DE LA VEGA",
+    "area": "Rural",
+    "municipio": "Capinota",
+    "zona": "BUEN RETIRO",
+    "direccion": "VICTORINA MARTINEZ C. S/N Y CAREAGA LANZA",
+    "lat": -17.69650078,
+    "lon": -66.26107025
+  },
+  {
+    "unidad_educativa": "PAULO FREIRE SACABA",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "QUINTANILLA",
+    "direccion": "MAXIMILIANO KOLBE",
+    "lat": -17.38580373,
+    "lon": -66.11020534
+  },
+  {
+    "unidad_educativa": "PAULO FREIRE 2",
+    "area": "Urbana",
+    "municipio": "",
+    "zona": "",
+    "direccion": "",
+    "lat": -66.162117,
+    "lon": -17.373844
+  },
+  {
+    "unidad_educativa": "PEDRO POVEDA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "TUPURAYA",
+    "direccion": "PLAZA TARIJA Nro 1287",
+    "lat": -17.37400055,
+    "lon": -66.14372253
+  },
+  {
+    "unidad_educativa": "PLURINACIONAL",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "BUENA VISTA BAJA",
+    "direccion": "CALLE LITORAL N° 7",
+    "lat": -17.44128896,
+    "lon": -66.01754575
+  },
+  {
+    "unidad_educativa": "PLURINACIONAL SAN ISIDRO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CIUDAD COCHABAMBA",
+    "direccion": "",
+    "lat": -17.46890509,
+    "lon": -66.15128851
+  },
+  {
+    "unidad_educativa": "PUENTE PAMPA",
+    "area": "Rural",
+    "municipio": "Aiquile",
+    "zona": "NOR OESTE",
+    "direccion": "CAMINO CARRETERO AIQUILE MIZQUE",
+    "lat": -18.09730977,
+    "lon": -65.26057124
+  },
+  {
+    "unidad_educativa": "RAYMUNDO HERMAN PINT",
+    "area": "Rural",
+    "municipio": "Morochata",
+    "zona": "LACHIRAYA",
+    "direccion": "LACHIRAYA",
+    "lat": -17.20849991,
+    "lon": -66.58994293
+  },
+  {
+    "unidad_educativa": "RENE BARRIENTOS ORTUÑO \"C",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "",
+    "direccion": "ECIA. USPHA - USPHA",
+    "lat": -17.4769001,
+    "lon": -66.11009216
+  },
+  {
+    "unidad_educativa": "RENÉ BARRIENTOS ORTUÑO A",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "ECUADOR ENTRE JUNIN Y HAMIRAYA",
+    "lat": -17.39060918,
+    "lon": -66.16099614
+  },
+  {
+    "unidad_educativa": "RENE FERNÁNDEZ BECERRA",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "MELGA",
+    "direccion": "MELGA",
+    "lat": -17.42589951,
+    "lon": -65.91481781
+  },
+  {
+    "unidad_educativa": "RODOLFO MERCADO ROSALES",
+    "area": "Rural",
+    "municipio": "Sipesipe",
+    "zona": "SIPE SIPE",
+    "direccion": "CALLE AYOMA",
+    "lat": -17.45429993,
+    "lon": -66.35856628
+  },
+  {
+    "unidad_educativa": "RODOLFO MONTAÑO VALDERRAMA",
+    "area": "Rural",
+    "municipio": "Capinota",
+    "zona": "CENTRAL",
+    "direccion": "AV. BUSCH ENTRE LEZANA Y CHAPARE",
+    "lat": -17.70789909,
+    "lon": -66.26580811
+  },
+  {
+    "unidad_educativa": "ROTARY QUILLACOLLO",
+    "area": "Urbana",
+    "municipio": "",
+    "zona": "",
+    "direccion": "",
+    "lat": -17.412197,
+    "lon": -66.279566
+  },
+  {
+    "unidad_educativa": "SAN AGUSTÍN",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "TUPURAYA",
+    "direccion": "AVENIDA AMERICA Nro 1359",
+    "lat": -17.37319946,
+    "lon": -66.14396667
+  },
+  {
+    "unidad_educativa": "SAN ANTONIO DE PADUA",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "QUINTANILLA",
+    "direccion": "AV. VILLAZON KM. 5 CARRETERA A SACABA",
+    "lat": -17.38546732,
+    "lon": -66.1103338
+  },
+  {
+    "unidad_educativa": "SAN ANTONIO MARIA CLARET",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "CALLE SUCRE N° 731 ENTRE 16 DE JULIO Y ANTEZANA",
+    "lat": -17.393362,
+    "lon": -66.151573
+  },
+  {
+    "unidad_educativa": "SAN MARTÍN DE PORRES",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "CENTRAL",
+    "direccion": "BALLIVIAN 22 ENTRE COCHABAMBA Y 14 DE SEPTIEMBRE",
+    "lat": -17.396734,
+    "lon": -66.28044381
+  },
+  {
+    "unidad_educativa": "SAN PEDRO DE SACABA",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "CENTRAL",
+    "direccion": "AV. MONSEÑOR ALCOCER Nro 164",
+    "lat": -17.40191023,
+    "lon": -66.03917551
+  },
+  {
+    "unidad_educativa": "SANK'AYANI BAJO",
+    "area": "Rural",
+    "municipio": "Tiraque",
+    "zona": "SANK´AYANI BAJO",
+    "direccion": "CMD. SANK´AYANI BAJO",
+    "lat": -17.41769981,
+    "lon": -65.65647888
+  },
+  {
+    "unidad_educativa": "SANTA MARIA MICAELA B",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "LA CHIMBA",
+    "direccion": "AV. INGAVI Y GUILLERMO SANCHEZ S/N",
+    "lat": -17.40713074,
+    "lon": -66.17666614
+  },
+  {
+    "unidad_educativa": "SANTO DOMINGO SAVIO CBBA PARTICULAR",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUD",
+    "direccion": "ZONA SUR PASAJE MANUEL VIA S/N",
+    "lat": -17.42099953,
+    "lon": -66.15895081
+  },
+  {
+    "unidad_educativa": "SANTO DOMINGO SAVIO B - CBBA FISCAL",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "SUD",
+    "direccion": "ZONA SUR PASAJE MANUEL VIA S/N",
+    "lat": -17.42099953,
+    "lon": -66.15895081
+  },
+  {
+    "unidad_educativa": "SIMON RODRIGUEZ",
+    "area": "Rural",
+    "municipio": "Aiquile",
+    "zona": "OESTE",
+    "direccion": "AV. SAN SIMON ESQUINA AV. TERAN",
+    "lat": -18.20079198,
+    "lon": -65.18360156
+  },
+  {
+    "unidad_educativa": "SUECIA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "HUAYRACASA",
+    "direccion": "AV. SUECIA S/N",
+    "lat": -17.42069945,
+    "lon": -66.14012599
+  },
+  {
+    "unidad_educativa": "TEC. HUM. SAN JOSE DE CALASANZ",
+    "area": "Rural",
+    "municipio": "Anzaldo",
+    "zona": "CENTRAL",
+    "direccion": "CALLE ESTEBAN ARCE S/N",
+    "lat": -17.78199959,
+    "lon": -65.93357849
+  },
+  {
+    "unidad_educativa": "TECNICO HUMANISTICO MARISCAL SUCRE",
+    "area": "Rural",
+    "municipio": "Entre Ríos (Bulo Bulo)",
+    "zona": "ENTRE RIOS",
+    "direccion": "ENTRE RIOS 265 KM. CARRETERA A SANTA CRUZ",
+    "lat": -17.19936792,
+    "lon": -64.53575995
+  },
+  {
+    "unidad_educativa": "TECNICO HUMANISTICO NATANIEL AGUIRRE",
+    "area": "Rural",
+    "municipio": "Arque",
+    "zona": "ARQUE",
+    "direccion": "AVENIDA JUVENAL PEREZ FINAL CARRETERA VILUYO ARQUE",
+    "lat": -17.82040873,
+    "lon": -66.40413521
+  },
+  {
+    "unidad_educativa": "TUTIMAYU",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "TUTI MAYU",
+    "direccion": "TUTI MAYU KM. 30 CARRETERA COCHABAMBA SANTA CRUZ",
+    "lat": -17.41654312,
+    "lon": -65.95155859
+  },
+  {
+    "unidad_educativa": "U E COREA BOLIVIA SAYARIY",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "PIÑAMI CHICO",
+    "direccion": "KM. 11 CASI FINAL OQUENDO",
+    "lat": -17.381126,
+    "lon": -66.257179
+  },
+  {
+    "unidad_educativa": "U.E. \"ELENA ARZE DE ARZE",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CALA CALA",
+    "direccion": "CALLE ADELA ZAMUDIO",
+    "lat": -17.37039948,
+    "lon": -66.16429901
+  },
+  {
+    "unidad_educativa": "U.E. PETROLERO SANANDITA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "MAYORASGO",
+    "direccion": "CALLE JOEL CAMACHO S/N",
+    "lat": -17.36400032,
+    "lon": -66.17660522
+  },
+  {
+    "unidad_educativa": "UETH 27 DE MAYO",
+    "area": "Urbana",
+    "municipio": "Colcapirhua",
+    "zona": "CENTRAL",
+    "direccion": "INGAVI ESQ. 6 DE AGOSTO",
+    "lat": -17.38820076,
+    "lon": -66.24167758
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA ADVENTISTA COCHABAMBA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "NORTE",
+    "direccion": "",
+    "lat": -17.37368352,
+    "lon": -66.16347104
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA CRISTIANO COLCAPIRHUA",
+    "area": "Urbana",
+    "municipio": "Colcapirhua",
+    "zona": "COLCAPIRHUA",
+    "direccion": "CALLE JOSE ENTRE REDUCTO Y LA PAZ",
+    "lat": -17.38156554,
+    "lon": -66.23705643
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA MARISTA SECUNDARIA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "TEMPORAL",
+    "direccion": "KAPAC YUPANQUI Nro 2460",
+    "lat": -17.36200098,
+    "lon": -66.16225363
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA PRIVADA CHULLA",
+    "area": "Urbana",
+    "municipio": "Quillacollo",
+    "zona": "CHULLA",
+    "direccion": "FINAL MATENDA CALLE SAN ISIDRO ILLATACU",
+    "lat": -17.390644,
+    "lon": -66.27602218
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA SIMÓN BOLÍVAR",
+    "area": "Rural",
+    "municipio": "Bolivar",
+    "zona": "BOLIVAR",
+    "direccion": "BOLIVAR-HUMBERTO PACHECO",
+    "lat": -17.96820068,
+    "lon": -66.53778839
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA SUIZO ALEMÁN",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "COCHABAMBA",
+    "direccion": "TAQUIÑA",
+    "lat": -17.33661851,
+    "lon": -66.18481731
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA TECNICO HUMANISTICO \"BOLIVIANO ARGENTINO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CENTRAL",
+    "direccion": "CALLE BAPTISTA Nro 171",
+    "lat": -17.39159966,
+    "lon": -66.15777588
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA TÉCNICO HUMANÍSTICO BOLIVIANO JAPONES",
+    "area": "Urbana",
+    "municipio": "Sacaba",
+    "zona": "PUNTITI",
+    "direccion": "KM 7 CARRETERA A SACABA 8 CUADRAS AL NORTE",
+    "lat": -17.37940025,
+    "lon": -66.09390259
+  },
+  {
+    "unidad_educativa": "UNIDAD EDUCATIVA TÉCNICO HUMANÍSTICO PLENA SANTIAGO \"MARISTA",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "CIUDAD COCHABAMBA",
+    "direccion": "ACHANDARA Y CALLE IMNOMINADA",
+    "lat": -17.35079956,
+    "lon": -66.15461731
+  },
+  {
+    "unidad_educativa": "VENJANMIN",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "VILLA EUCALIPTUS",
+    "direccion": "VILLA EUCALIPTUS ZONA ALALAY",
+    "lat": -17.42548997,
+    "lon": -66.12353373
+  },
+  {
+    "unidad_educativa": "VILLA GRANADO",
+    "area": "Rural",
+    "municipio": "Aiquile",
+    "zona": "ESTE VILLA GRANADO",
+    "direccion": "CARRETERA TRONCAL AIQUILE SANTA CRUZ",
+    "lat": -18.20929909,
+    "lon": -65.03763938
+  },
+  {
+    "unidad_educativa": "Colegio Alemán Federico Froebel",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "LOMAS DE ARANJUEZ",
+    "direccion": "AVENIDA MELCHOR URQUIDI S/N",
+    "lat": -17.36170006,
+    "lon": -66.14702606
+  },
+  {
+    "unidad_educativa": "PABLO CANO GALVARRO",
+    "area": "Urbana",
+    "municipio": "Colcapirhua",
+    "zona": "FLORIDA",
+    "direccion": "FLORIDA SUD - PLAZA ADELA ZAMUDIO",
+    "lat": -17.39326135,
+    "lon": -66.22613931
+  },
+  {
+    "unidad_educativa": "INSTITUTO AMERICANO",
+    "area": "Urbana",
+    "municipio": "Cochabamba",
+    "zona": "QUERU QUERU",
+    "direccion": "AV. JULIO RODRIGUEZ",
+    "lat": -17.369647,
+    "lon": -66.154692
+  }
+]

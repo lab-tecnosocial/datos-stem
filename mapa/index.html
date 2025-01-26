@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de unidades educativas participantes - Olimpiadas STEM+ 2024</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        #map {
+            height: 100%;
+        }
+
+        .leaflet-control-layers-expanded {
+            width: 200px;
+            font-size: 16px;
+        }
+
+        .leaflet-control-layers-expanded .leaflet-control-layers-list {
+            max-height: none;
+        }
+
+        .leaflet-control-layers-expanded label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .leaflet-control-layers-expanded input {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script>
+        let map = L.map('map').setView([-17.395, -65.777], 12);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 9,
+        }).addTo(map);
+
+        let urbanaLayer = L.layerGroup();
+        let ruralLayer = L.layerGroup();
+
+        fetch('data/data.json')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(item => {
+                    let marker = L.marker([item.lat, item.lon]);
+                    marker.bindPopup('<b>' + item.unidad_educativa + '</b><br><b>Area: </b>' + item.area + '<br><b>Municipio: </b>' + item.municipio + '<br><b>Zona: </b>' + item.zona + '<br><b>Dirección: </b>' + item.direccion);
+
+                    if (item.area === 'Urbana') {
+                        marker.addTo(urbanaLayer);
+                    } else if (item.area === 'Rural') {
+                        marker.addTo(ruralLayer);
+                    }
+                });
+
+                urbanaLayer.addTo(map);
+            })
+            .catch(error => console.error('Error loading the data:', error));
+
+        let baseLayers = {};
+        let overlays = {
+            "Urbana": urbanaLayer,
+            "Rural": ruralLayer
+        };
+        urbanaLayer.addTo(map);
+        ruralLayer.addTo(map);
+
+        L.control.layers(baseLayers, overlays, {
+            position: 'bottomright',
+            collapsed: false
+        }).addTo(map);
+    </script>
+
+</body>
+
+</html>
