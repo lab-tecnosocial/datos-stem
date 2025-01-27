@@ -47,10 +47,9 @@
 <body>
     <div id="map"></div>
     <script>
-        let map = L.map('map').setView([-17.395, -65.777], 12);
+        let map = L.map('map').setView([-17.395, -65.777], 9);
 
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 9,
         }).addTo(map);
 
         let urbanaLayer = L.layerGroup();
